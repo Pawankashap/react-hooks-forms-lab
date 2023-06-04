@@ -9,6 +9,7 @@ function App() {
 
   function handleDarkModeClick() {
     setIsDarkMode((isDarkMode) => !isDarkMode);
+    
   }
 
   return (

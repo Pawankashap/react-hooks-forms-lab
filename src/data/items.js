@@ -7,4 +7,5 @@ const items = [
   { id: 6, name: "Cookies", category: "Dessert" },
 ];
 
+
 export default items;
